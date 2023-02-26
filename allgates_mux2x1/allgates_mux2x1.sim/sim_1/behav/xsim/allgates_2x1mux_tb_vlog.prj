@@ -1,0 +1,11 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"C:/Users/User/Downloads/all_gates_2x1mux.srcs/sources_1/new/all_gates_2x1mux.v" \
+"C:/Users/User/Downloads/all_gates_2x1mux.srcs/sources_1/new/mux_2x1.v" \
+"C:/Users/User/Downloads/all_gates_2x1mux.srcs/sources_1/new/allgates_2x1mux_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
