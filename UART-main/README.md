@@ -9,9 +9,7 @@ UART Transmitter Operation:
 5.	A parity bit may be transmitted after the data bits to provide error detection.
 6.	Finally, the transmitter generates one or more stop bits to indicate the end of the transmission.
 
-
-![Transmitter Simulation Output]
-(https://user-images.githubusercontent.com/71482618/221912940-10c44249-4f1c-487a-aaf9-27893ec81385.png)
+![Transmitter Simulation Output](https://user-images.githubusercontent.com/71482618/221913301-07652a55-b4f5-4ff5-94f9-662eb8ab87ee.png)
 
 
 UART Receiver Operation:
@@ -21,6 +19,5 @@ UART Receiver Operation:
 4.	The parity bit, if present, is also received and checked for errors.
 5.	Finally, the stop bit(s) are received to indicate the end of the transmission.
 The transmitter and receiver must use the same communication parameters, such as baud rate, parity, and number of data bits, to ensure successful communication. The UART protocol is commonly used for communication between microcontrollers, sensors, and other devices.                                                                      
+![Receiver Simulation Output](https://user-images.githubusercontent.com/71482618/221913242-85a7c3b2-68fe-483d-921f-df0e46e89d0b.png)
 
-![Receiver Simulation Output]
-(https://user-images.githubusercontent.com/71482618/221913047-03a880ef-0189-4f3c-bcc9-eb24180bfb27.png)
