@@ -10,3 +10,6 @@ Demonstrated strong knowledge of digital design principles and concepts, includi
 Demonstrated proficiency in Verilog or other hardware description languages, as well as familiarity with FPGA design and development tools.
 Possessed a strong attention to detail, organizational skills, and ability to work effectively both independently and in a team environment.
 Demonstrated excellent communication skills, both verbal and written, and ability to collaborate effectively with team members, stakeholders, and customers.
+
+
+Modified Booth multiplier/Output.png
