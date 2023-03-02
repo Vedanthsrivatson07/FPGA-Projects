@@ -15,4 +15,5 @@ The truth table for this 2x1 MUX is as follows:
   1  |  X  |  1  |    1
 
 (Note: "X" means "don't care.")
+
 In this truth table, the control input C selects which input (A or B) is passed to the output. If C is 0, input A is passed to the output, and if C is 1, input B is passed to the output. The two NAND gates together perform the necessary logical operations to select the correct input based on the value of C.
