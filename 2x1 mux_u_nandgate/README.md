@@ -1,14 +1,8 @@
 A 2x1 multiplexer (MUX) can be constructed using NAND gates. A multiplexer is a digital switch that selects one of two inputs and forwards the selected input to the output. Here's the logic diagram of a 2x1 MUX using NAND gates:
-   _____
---|     |
-  |NAND |----
---|_____|    |
-            NAND
---|     |    |
-  |     |---|____
---|_____|       |
-                 |
-              Output
+
+![image](https://user-images.githubusercontent.com/71482618/222456341-cf4ca4e9-3e17-4453-a253-e738942b8314.png)
+
+             
 In this diagram, the two inputs A and B are connected to one input of each NAND gate. The other input of each NAND gate is connected to the control input C. The output of the first NAND gate is connected to the input of the second NAND gate, and the output of the second NAND gate is the output of the MUX.
 
 The truth table for this 2x1 MUX is as follows:
