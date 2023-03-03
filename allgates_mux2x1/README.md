@@ -11,19 +11,10 @@ The logic diagram for a 2x1 mux consists of two inputs, a select line, and a sin
 
 Here is an example of a logic diagram for a 2x1 mux:
 
-lua
-Copy code
-      +----+   +-----+
-I0 ---|    |   |     |--- O
-      | AND|---| OR  |
-S ----|    |   |     |
-      +----+   +-----+
-            |
-      +----+   +-----+
-I1 ---|    |   | NOT |--- S'
-      | AND|---|     |
-S ----|    |   |     |
-      +----+   +-----+
+
+![image](https://user-images.githubusercontent.com/71482618/222709446-2175572b-d4e3-4afa-b8c6-624ef05b061d.png)
+
+
 In this diagram, the input signals are labeled I0 and I1, the select line is labeled S, the inverted select line is labeled S', and the output line is labeled O.
 
 The circuit contains two AND gates, one OR gate, and one NOT gate. The input signals are connected to the inputs of the AND gates, along with the inverted and non-inverted select lines. The outputs of the AND gates are connected to the inputs of the OR gate, which selects the input signal based on the binary value of the select line. The select line is also connected to the input of the NOT gate, which inverts the binary value of the select line to generate the inverted select line. The output of the NOT gate is connected to the second input of the AND gates.
