@@ -10,3 +10,4 @@ When J = 0 and K = 1, the flip-flop is reset to the 0 state, so the output Q is 
 
 When J = 1 and K = 1, the flip-flop changes its state based on its previous state. If it was in the 0 state, it will be set to the 1 state, and if it was in the 1 state, it will be reset to the 0 state.
 
+![image](https://user-images.githubusercontent.com/71482618/222879923-7533e1b9-ab01-45c4-a27f-37ac0e08da3a.png)
