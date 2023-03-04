@@ -1,0 +1,7 @@
+Vivado Simulator 2018.2
+Time resolution is 1 ps
+clk=1,rst=0,t=0,q=0,qbar=1
+clk=1,rst=0,t=1,q=0,qbar=1
+clk=1,rst=0,t=0,q=0,qbar=1
+clk=1,rst=0,t=1,q=0,qbar=1
+$finish called at time : 80 ns : File "D:/MTech 1St sem Materials/Analog IC Design/FPGA/t flipflop/t flipflop.srcs/sources_1/new/t_ff tb.v" Line 46
