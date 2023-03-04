@@ -4,12 +4,8 @@ A SR flip-flop has two inputs: S (set) and R (reset), and two outputs: Q (the ou
 
 The truth table for a SR flip-flop is as follows:
 
-S  |  R  || Q  | Q'
----|-----||----|---
-0  |  0  || Q  | Q
-0  |  1  || 0  | 1
-1  |  0  || 1  | 0
-1  |  1  || Q  | Q (undefined or forbidden)
+![image](https://user-images.githubusercontent.com/71482618/222879800-093c92a3-c6b3-4639-aa9e-77906dcf770c.png)
+
 
 When both S and R are 0, the flip-flop maintains its current state, so the outputs Q and Q' remain unchanged.
 
