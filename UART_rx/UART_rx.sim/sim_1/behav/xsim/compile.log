@@ -1,6 +1,0 @@
-INFO: [VRFC 10-2263] Analyzing Verilog file "D:/MTech 1St sem Materials/Analog IC Design/FPGA/UART/UART_rx/UART_rx.srcs/sources_1/new/uart_rx.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module uart_rx
-INFO: [VRFC 10-2263] Analyzing Verilog file "D:/MTech 1St sem Materials/Analog IC Design/FPGA/UART/UART_rx/UART_rx.srcs/sources_1/new/uartrx_tb.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module tb_uart_rx
-INFO: [VRFC 10-2263] Analyzing Verilog file "D:/MTech 1St sem Materials/Analog IC Design/FPGA/UART/UART_rx/UART_rx.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module glbl
